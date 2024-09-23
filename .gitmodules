@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/usaid-mozambique/usaid-mozambique.r-universe.dev
 	branch = HEAD
+[submodule "mozR"]
+	path = mozR
+	url = https://github.com/usaid-mozambique/mozR
+	registered = false
 [submodule "sismar"]
 	path = sismar
 	url = https://github.com/usaid-mozambique/sismar
