@@ -9,3 +9,6 @@
 [submodule "sismar"]
 	path = sismar
 	url = https://github.com/usaid-mozambique/sismar
+[submodule "sonata"]
+	path = sonata
+	url = https://github.com/usaid-mozambique/sonata
