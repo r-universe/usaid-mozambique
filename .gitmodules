@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/usaid-mozambique/usaid-mozambique.r-universe.dev
 	branch = HEAD
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/usaid-mozambique/inspector
 [submodule "mozR"]
 	path = mozR
 	url = https://github.com/usaid-mozambique/mozR
