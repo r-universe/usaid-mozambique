@@ -5,10 +5,6 @@
 [submodule "inspector"]
 	path = inspector
 	url = https://github.com/usaid-mozambique/inspector
-[submodule "mozR"]
-	path = mozR
-	url = https://github.com/usaid-mozambique/mozR
-	registered = false
 [submodule "sismar"]
 	path = sismar
 	url = https://github.com/usaid-mozambique/sismar
